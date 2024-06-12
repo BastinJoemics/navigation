@@ -6,6 +6,7 @@
   "capacitorId": "",
   "author": "Sergey Buntsevich <scarry92@yandex.ru>",
   "private": true,
+  "homepage":"./",
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
     "dev": "quasar dev -m spa",
